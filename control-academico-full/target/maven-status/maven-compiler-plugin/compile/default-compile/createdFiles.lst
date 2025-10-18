@@ -1,0 +1,14 @@
+com\academico\ui\VentanaLogin.class
+com\academico\util\PasswordUtil.class
+com\academico\dao\AlumnoDAO.class
+com\academico\ui\VentanaLogin$MenuPrincipal.class
+com\academico\servicio\ControlAcademicoService.class
+com\academico\dao\CursoDAO.class
+com\academico\dao\InscripcionDAO.class
+com\academico\modelo\Alumno.class
+com\academico\modelo\Inscripcion.class
+com\academico\ui\VentanaRegistroAlumno.class
+com\academico\config\ConexionDB.class
+com\academico\App.class
+com\academico\modelo\Curso.class
+com\academico\ui\VentanaCursos.class
